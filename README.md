@@ -42,5 +42,6 @@ $ ./_genonce.sh
 6. Open the file `./output/index.html` to browse the resulting IG.
 
 ## Implementation Guide (Pre-Release)
+The anvilproject.io seems to be redirected to a non-github related webserver, so I'm hoping this will work:
 
-The DD-On-FHIR Implementation Guide (pre-release) is available [here](https://anvilproject.github.io/DD-On-FHIR/).
+The DD-On-FHIR Implementation Guide (pre-release) is available [here](http://torstees.github.io/DD-On-FHIR/).
